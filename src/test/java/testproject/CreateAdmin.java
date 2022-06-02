@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class CreateAdmin {
-	
+	//Tests Create Admin
 
 		public static void main(String a[]) {
 			

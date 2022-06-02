@@ -14,6 +14,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ViewAdmin {
 
+	//Tests View , Activate and delete Admin
+
 	public static void main(String a[]) {
 
 		test("http://127.0.0.1:5501/index.html");

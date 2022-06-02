@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class AdminLoginTest {
+	//Tests Admin Login
 
 	public static void main(String a[]) {
 		
